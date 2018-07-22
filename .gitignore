@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+venv_urobotics
+config.py
+urobobot.log
